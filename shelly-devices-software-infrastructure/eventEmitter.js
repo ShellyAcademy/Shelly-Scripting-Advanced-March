@@ -1,0 +1,1 @@
+Shelly.emitEvent("something_happened", { "when" : "now", "what" : "something"});

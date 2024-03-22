@@ -70,27 +70,27 @@ function Queue() {
   }
    
   // Usage example
-  setTimer(1000, false, function() {
+  setTimer(5000, function() {
       console.log('First Timer');
   }, null);
    
   // More setTimer calls as needed
-  setTimer(1000, false, function() {
+  setTimer(5000, function() {
       console.log('Second Timer');
   }, null);
    
-  setTimer(1000, false, function() {
+  setTimer(5000, function() {
       console.log('Third Timer');
   }, null);
    
-  setTimer(1000, false, function() {
+  setTimer(5000, function() {
       console.log('Fourth Timer');
   }, null);
    
-  setTimer(1000, false, function() {
+  setTimer(5000, function() {
       console.log('Fifth Timer');
   }, null);
    
-  setTimer(1000, false, function() {
+  setTimer(6000, function() {
       console.log('Sixth Timer');
   }, null);

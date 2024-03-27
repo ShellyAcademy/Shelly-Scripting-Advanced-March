@@ -1,0 +1,1 @@
+Shelly.call("Script.start", {id: 2})

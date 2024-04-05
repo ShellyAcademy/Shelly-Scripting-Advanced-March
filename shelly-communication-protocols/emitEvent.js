@@ -1,0 +1,1 @@
+Shelly.emitEvent("TEST_EVENT", {test:"test"});

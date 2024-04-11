@@ -1,4 +1,4 @@
-let apiKey = "7r4nrzw7ree7kor";
+let apiKey = ""; // your API key
 let baseUrl = "https://alertzy.app/send";
 let title = "Motion%20Detected";
 let message = "Motion%20was%20detected%20in%20living%20room!";
